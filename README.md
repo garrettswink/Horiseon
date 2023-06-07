@@ -1,5 +1,9 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+## Developer Note
+
+The related CSS and HTML code was modified from original code provided by the Columbia Web Developer Bootcamp. Full details about the assignment and success criteria can be found below.
+
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
