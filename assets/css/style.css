@@ -18,10 +18,11 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
+
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
+#seo {
+    color: greenyellow;
 }
 
 .header div {
@@ -50,13 +51,9 @@ p {
     font-size: 16px;
 }
 
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+#hero-image {
+height:auto;
+width:100%;
 }
 
 .float-left {
