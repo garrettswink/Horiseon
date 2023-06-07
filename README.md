@@ -2,7 +2,9 @@
 
 ## Developer Note
 
-The related CSS and HTML code was modified from original code provided by the Columbia Web Developer Bootcamp. Full details about the assignment and success criteria can be found below.
+The related CSS and HTML code was modified from original code provided by the Columbia Web Developer Bootcamp. Updates were made by myself, without a class partner but with the consultation of an EdEx tutor. All updated files related to the Horiseon site can be found here on my personal Git Hub account. 
+
+Full details about the original assignment and success criteria can be found below.
 
 ## Challenges in This Course
 
